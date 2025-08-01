@@ -1,0 +1,6 @@
+@CareerLync_HostAddress = http://localhost:5063
+
+GET {{CareerLync_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

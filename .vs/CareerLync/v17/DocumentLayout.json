@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\repositories\\joblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\repositories\\joblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\models\\joblistings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\models\\joblistings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\dtos\\joblistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\dtos\\joblistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\interfaces\\ijoblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\interfaces\\ijoblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\controllers\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\models\\resumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\models\\resumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\models\\jobseekers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\models\\jobseekers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\models\\jobapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\models\\jobapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\interfaces\\ijobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\interfaces\\ijobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\repositories\\resumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\repositories\\resumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\repositories\\jobseekerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\repositories\\jobseekerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\repositories\\employerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\repositories\\employerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|c:\\users\\hp\\desktop\\hexaware 2.0\\careerlync\\careerlync\\models\\employers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9206FF-A588-4485-B08A-7B7F01369080}|CareerLync\\CareerLync.csproj|solutionrelative:careerlync\\models\\employers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobListingDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\DTOs\\JobListingDto.cs",
+              "RelativeDocumentMoniker": "CareerLync\\DTOs\\JobListingDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\DTOs\\JobListingDto.cs",
+              "RelativeToolTip": "CareerLync\\DTOs\\JobListingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:51:14.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\JobListingRepository.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Repositories\\JobListingRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\JobListingRepository.cs",
+              "RelativeToolTip": "CareerLync\\Repositories\\JobListingRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:46:50.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "CareerLync\\Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:25:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJobListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Interfaces\\IJobListingRepository.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Interfaces\\IJobListingRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Interfaces\\IJobListingRepository.cs",
+              "RelativeToolTip": "CareerLync\\Interfaces\\IJobListingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:25:05.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobSeekerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\JobSeekerController.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Controllers\\JobSeekerController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\JobSeekerController.cs",
+              "RelativeToolTip": "CareerLync\\Controllers\\JobSeekerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:23:38.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\EmployerController.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Controllers\\EmployerController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\EmployerController.cs",
+              "RelativeToolTip": "CareerLync\\Controllers\\EmployerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:22:05.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CareerLync\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:19:33.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\DTOs\\JobApplicationDto.cs",
+              "RelativeDocumentMoniker": "CareerLync\\DTOs\\JobApplicationDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\DTOs\\JobApplicationDto.cs",
+              "RelativeToolTip": "CareerLync\\DTOs\\JobApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:52:08.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\JobApplicationRepository.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Repositories\\JobApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\JobApplicationRepository.cs",
+              "RelativeToolTip": "CareerLync\\Repositories\\JobApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:49:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resumes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\Resumes.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Models\\Resumes.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\Resumes.cs",
+              "RelativeToolTip": "CareerLync\\Models\\Resumes.cs",
+              "ViewState": "AgIAAAkAAACAmZmZmZktwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:23:38.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobApplications.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\JobApplications.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Models\\JobApplications.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\JobApplications.cs",
+              "RelativeToolTip": "CareerLync\\Models\\JobApplications.cs",
+              "ViewState": "AgIAABIAAACQmZmZmZkwwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:16:09.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobListings.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\JobListings.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Models\\JobListings.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\JobListings.cs",
+              "RelativeToolTip": "CareerLync\\Models\\JobListings.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T05:16:08.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobSeekers.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\JobSeekers.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Models\\JobSeekers.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\JobSeekers.cs",
+              "RelativeToolTip": "CareerLync\\Models\\JobSeekers.cs",
+              "ViewState": "AgIAABgAAACAmZmZmZkVwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:35:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employers.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\Employers.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Models\\Employers.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\Employers.cs",
+              "RelativeToolTip": "CareerLync\\Models\\Employers.cs",
+              "ViewState": "AgIAAAsAAACA//////8PwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:33:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\EmployerRepository.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Repositories\\EmployerRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\EmployerRepository.cs",
+              "RelativeToolTip": "CareerLync\\Repositories\\EmployerRepository.cs",
+              "ViewState": "AgIAAB4AAACAz8zMzMz8vwwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:06:23.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobSeekerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\JobSeekerRepository.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Repositories\\JobSeekerRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\JobSeekerRepository.cs",
+              "RelativeToolTip": "CareerLync\\Repositories\\JobSeekerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:06:18.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResumeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\ResumeRepository.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Repositories\\ResumeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\ResumeRepository.cs",
+              "RelativeToolTip": "CareerLync\\Repositories\\ResumeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:06:05.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CareerLync\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:05:33.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJobApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Interfaces\\IJobApplicationRepository.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Interfaces\\IJobApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Interfaces\\IJobApplicationRepository.cs",
+              "RelativeToolTip": "CareerLync\\Interfaces\\IJobApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:05:05.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "CareerLync\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:24:46.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Program.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Program.cs",
+              "RelativeToolTip": "CareerLync\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:52:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\appsettings.json",
+              "RelativeDocumentMoniker": "CareerLync\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\appsettings.json",
+              "RelativeToolTip": "CareerLync\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T05:51:08.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CareerLync\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Hexaware 2.0\\CareerLync\\CareerLync\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CareerLync\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACYAAADAzMzMzMwywAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:44:06.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwIAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-30T17:35:49.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
